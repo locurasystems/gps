@@ -4,7 +4,7 @@
  *
  * @package  Laravel
  * @version  3.2.14
- * @author   Taylor Otwell <taylorotwell@gmail.com>
+ * @author   Taylor Otwellq <taylorotwell@gmail.com>
  * @link     http://laravel.com
  */
 
