@@ -20,3 +20,40 @@
         </div>
     </form>
 </div>
+
+<html>
+<body>
+<div id="map" style="width:400px; height:400px;" >
+    <?php
+    $map=new Map();
+    $map->center_lat='28.022900221052016'; // set latitude for center location
+    $map->center_lng='73.3011245727539'; // set langitude for center location
+    $map->zoom=14;
+
+    //marker information
+
+    // marker 1
+    $lat='28.022900221052016'; // latitude
+    $lng='73.3011245727539'; // longitude
+    $isclickable='true';
+    $title="Truck no:8428423";
+    $info='<b>DATE</b> 24-Aug-1990 <br/> <b>TIME</b> 12:00 AM jediehdoewh';
+    $map->addMarker($lat,$lng,$isclickable,$title,$info);
+
+
+    // marker 2
+    $lat='28.011100221052016'; // latitude
+    $lng='73.3011245727539'; // longitude
+    $isclickable='true';
+    $title="Truck no:7863872";
+    $info='<b>DATE</b> 24-Aug-1990 <br/> <b>TIME</b> 12:00 AM jediehdoewh';
+    $icon='';
+    $map->addMarker($lat,$lng,$isclickable,$title,$info,$icon);
+
+    echo $map->display();
+    ?>
+</div>
+
+</body>
+</html>
+
