@@ -33,6 +33,7 @@
 */
 
 Route::get('/',array('as'=>'home','uses'=>'gps@Index'));
+Route::post('gps',array('as'=>'Gps','uses'=>'gps@AddGps'));
 
 
 /*

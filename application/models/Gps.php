@@ -8,7 +8,7 @@
  */
 
 class Gps extends Eloquent {
-    public static $table='gps';
+    public static $table='vehicle_data';
 public static function addgps($data)
 {
     $res=DB::table(self::$table)

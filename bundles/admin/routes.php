@@ -52,7 +52,7 @@ Route::get('(:bundle)/calender',array('as'=>'Calender','uses'=>'admin::calender@
 
 Route::get('(:bundle)/hearing',array('as'=>'Hearing','uses'=>'admin::hearing@Index'));
 
-Route::post('(:bundle)/gps',array('as'=>'Gps','uses'=>'admin::gps@AddGps'));
+//Route::post('(:bundle)/gps',array('as'=>'Gps','uses'=>'admin::gps@AddGps'));
 
 
 
