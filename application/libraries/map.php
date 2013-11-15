@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 /**
  * Created by JetBrains PhpStorm.
  * User: bhoo
@@ -17,6 +18,18 @@ class Map
     var $divID ='map'; // Div id for the map
     var $marker =array();
     var $instance =1;
+=======
+class Map
+{
+
+    var $code       ='';  // Do not edit this.
+    var $zoom       =14; // Zoom Level.
+    var $center_lat ='28.022900221052016'; // google map center location latitude
+    var $center_lng ='73.3011245727539'; // google map center longitutde
+    var $divID      ='map'; // Div id for the map
+    var $marker     =array();
+    var $instance   =1;
+>>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
     function __construct()
     {
         echo '<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>';
@@ -26,6 +39,7 @@ class Map
     {
 
         $this->code='
+<<<<<<< HEAD
 <script type="text/javascript">
 (function() {
 window.onload = function(){
@@ -39,18 +53,42 @@ mapTypeId: google.maps.MapTypeId.ROADMAP
 };
 // Calling the constructor, thereby initializing the map
 var map = new google.maps.Map(document.getElementById("'.$this->divID.'"), options); ';
+=======
+        <script type="text/javascript">
+      (function() {
+        window.onload = function(){
+            // Creating a LatLng object containing the coordinate for the center of the map
+          var latlng = new google.maps.LatLng('.$this->center_lat.', '.$this->center_lng.');
+          // Creating an object literal containing the properties we want to pass to the map
+          var options = {
+              zoom: '.$this->zoom.',
+              center: latlng,
+              mapTypeId: google.maps.MapTypeId.ROADMAP
+          };
+          // Calling the constructor, thereby initializing the map
+          var map = new google.maps.Map(document.getElementById("'.$this->divID.'"), options); ';
+>>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
 
 
         for($i=0;$i<count($this->marker);$i++)
         {
 
             $this->code.=' var marker'.$i.' = new google.maps.Marker({
+<<<<<<< HEAD
 position: new google.maps.LatLng('.$this->marker[$i]['lat'].', '.$this->marker[$i]['lng'].'),
 map: '.$this->marker[$i]['map'].',
 title: "'.$this->marker[$i]['title'].'",
 clickable: '.$this->marker[$i]['click'].',
 icon: "'.$this->marker[$i]['icon'].'"
 });';
+=======
+                position: new google.maps.LatLng('.$this->marker[$i]['lat'].', '.$this->marker[$i]['lng'].'),
+                map: '.$this->marker[$i]['map'].',
+                title: "'.$this->marker[$i]['title'].'",
+                clickable: '.$this->marker[$i]['click'].',
+                icon: "'.$this->marker[$i]['icon'].'"
+              });';
+>>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
 
             // Creating an InfoWindow object
             if($this->marker[$i]['info']!='')
@@ -61,9 +99,15 @@ icon: "'.$this->marker[$i]['icon'].'"
         }
 
 
+<<<<<<< HEAD
         $this->code.=' }
 })();
 </script>';
+=======
+        $this->code.='    }
+      })();
+        </script>';
+>>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
 
     }
 

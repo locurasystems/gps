@@ -55,4 +55,5 @@ class Gps_Controller extends Base_Controller {
             ->with('status','Gps Added successfully');
     }
 
+
 }
