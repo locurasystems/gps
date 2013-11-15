@@ -20,10 +20,7 @@
         </div>
     </form>
 </div>
-<<<<<<< HEAD
-=======
 
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
 <html>
 <body>
 <div id="map" style="width:400px; height:400px;" >
@@ -58,9 +55,7 @@
 </div>
 
 </body>
-<<<<<<< HEAD
-</html>
-=======
+
 </html>
 
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
+</html>

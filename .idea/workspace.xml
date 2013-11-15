@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="AnalysisUIOptions">
     <option name="ANALYZE_TEST_SOURCES" value="false" />
   </component>
@@ -18,21 +17,6 @@
     <file path="/gps.php" changelist="5f2aa0ec-51d7-4e5b-8906-5a7b1fb33e8b" time="1384508644689" ignored="false" />
     <file path="/routes.php" changelist="5f2aa0ec-51d7-4e5b-8906-5a7b1fb33e8b" time="1383388881418" ignored="false" />
     <file path="/a.dummy" changelist="5f2aa0ec-51d7-4e5b-8906-5a7b1fb33e8b" time="1383393475427" ignored="false" />
-=======
-  <component name="ChangeListManager">
-    <list default="true" id="a51e5826-ca0a-4460-a93c-0becfc52a463" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/libraries/map.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/gps/add_gps.php" afterPath="$PROJECT_DIR$/application/views/gps/add_gps.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/base.php" afterPath="$PROJECT_DIR$/application/controllers/base.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/gps.php" afterPath="$PROJECT_DIR$/application/controllers/gps.php" />
-    </list>
-    <ignored path="gps.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a51e5826-ca0a-4460-a93c-0becfc52a463" time="1383558843573" ignored="false" />
-    <file path="/gps.php" changelist="a51e5826-ca0a-4460-a93c-0becfc52a463" time="1383581695105" ignored="false" />
-    <file path="/a.dummy" changelist="a51e5826-ca0a-4460-a93c-0becfc52a463" time="1383579007172" ignored="false" />
-    <file path="/add_gps.php" changelist="a51e5826-ca0a-4460-a93c-0becfc52a463" time="1383581704329" ignored="false" />
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +32,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-<<<<<<< HEAD
     <favorites_list name="lawyers" />
-=======
-    <favorites_list name="gps" />
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gps.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gps.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/gps.php">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state line="44" column="45" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-24.846153">
+            <state line="33" column="33" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.34953272">
               <folding />
             </state>
           </provider>
@@ -69,8 +48,10 @@
       <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/libraries/map.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="-1.3076923">
-              <folding />
+            <state line="95" column="2" selection-start="2871" selection-end="2871" vertical-scroll-proportion="-38.384617">
+              <folding>
+                <element signature="e#6#162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,22 +78,15 @@
         <entry file="file://$PROJECT_DIR$/application/controllers/base.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="-1.3076923">
-=======
-            <state line="32" column="20" selection-start="839" selection-end="839" vertical-scroll-proportion="-15.958333">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_gps.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="add_gps.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/gps/add_gps.php">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state line="1" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="-0.74904215">
-=======
-            <state line="43" column="11" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.72115386">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
+            <state line="22" column="0" selection-start="865" selection-end="865" vertical-scroll-proportion="-14.384615">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -120,7 +94,6 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="Gps.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/models/Gps.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,12 +107,6 @@
         <entry file="file://$PROJECT_DIR$/application/views/home/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="123" column="0" selection-start="4027" selection-end="4027" vertical-scroll-proportion="0.0">
-=======
-      <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/libraries/map.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="27" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-11.666667">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
               <folding />
             </state>
           </provider>
@@ -163,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/bundles/admin/views/calender/calender.php" />
         <option value="$PROJECT_DIR$/bundles/admin/views/hearing/add_hearing.php" />
@@ -175,10 +141,10 @@
         <option value="$PROJECT_DIR$/application/config/database.php" />
         <option value="$PROJECT_DIR$/application/models/Gps.php" />
         <option value="$PROJECT_DIR$/application/controllers/base.php" />
-        <option value="$PROJECT_DIR$/application/views/gps/add_gps.php" />
-        <option value="$PROJECT_DIR$/application/libraries/map.php" />
         <option value="$PROJECT_DIR$/bundles/admin/routes.php" />
         <option value="$PROJECT_DIR$/application/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/gps/add_gps.php" />
+        <option value="$PROJECT_DIR$/application/libraries/map.php" />
         <option value="$PROJECT_DIR$/application/controllers/gps.php" />
       </list>
     </option>
@@ -189,20 +155,6 @@
     <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
-=======
-        <option value="$PROJECT_DIR$/application/controllers/base.php" />
-        <option value="$PROJECT_DIR$/application/controllers/gps.php" />
-        <option value="$PROJECT_DIR$/application/libraries/gps.php" />
-        <option value="$PROJECT_DIR$/application/libraries/map.php" />
-        <option value="$PROJECT_DIR$/application/views/gps/add_gps.php" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="705" />
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -239,97 +191,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-<<<<<<< HEAD
-=======
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="75" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="89" />
@@ -380,38 +246,11 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-=======
-    <property name="WebServerToolWindowFactoryState" value="true" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="c6f763ee-b9eb-4369-8f04-2722ed3f012b">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="cd26aa38-2f5a-4c6a-9fe6-63c10d3b2828">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
       <changelist id="5f2aa0ec-51d7-4e5b-8906-5a7b1fb33e8b" name="Default" comment="" />
       <created>1383204418976</created>
       <updated>1383204418976</updated>
@@ -424,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -446,36 +285,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-=======
-      <changelist id="a51e5826-ca0a-4460-a93c-0becfc52a463" name="Default" comment="" />
-      <created>1383558844076</created>
-      <updated>1383558844076</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="705" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -520,11 +329,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="add .htaccess" />
-=======
-    <option name="LAST_COMMIT_MESSAGE" />
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -538,16 +343,12 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-<<<<<<< HEAD
     <MESSAGE value="add .htaccess" />
-=======
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../lawyers1/bundles/admin/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="42" selection-start="3355" selection-end="3442" vertical-scroll-proportion="0.41308412" />
@@ -600,27 +401,17 @@
     <entry file="file://$PROJECT_DIR$/application/models/Gps.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="1" selection-start="347" selection-end="347" vertical-scroll-proportion="-6.5384617">
-=======
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/base.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="-1.3076923">
-=======
-        <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.057692308">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/bundles/admin/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="54" column="78" selection-start="3445" selection-end="3521" vertical-scroll-proportion="-11.769231">
@@ -631,43 +422,32 @@
     <entry file="file://$PROJECT_DIR$/application/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="45" selection-start="950" selection-end="950" vertical-scroll-proportion="-3.2692308">
-=======
-    <entry file="file://$PROJECT_DIR$/application/controllers/gps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="20" selection-start="839" selection-end="839" vertical-scroll-proportion="-15.958333">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/libraries/map.php">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="8" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="-1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/gps.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="45" selection-start="1627" selection-end="1627" vertical-scroll-proportion="-24.846153">
-=======
-        <state line="77" column="27" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-11.666667">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/gps/add_gps.php">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state line="1" column="47" selection-start="77" selection-end="77" vertical-scroll-proportion="-0.74904215">
-=======
-        <state line="43" column="11" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.72115386">
->>>>>>> 4f1154212ac0f5fce2002beb938b0c821616cfa7
+        <state line="22" column="0" selection-start="865" selection-end="865" vertical-scroll-proportion="-14.384615">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="2" selection-start="2871" selection-end="2871" vertical-scroll-proportion="-38.384617">
+          <folding>
+            <element signature="e#6#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/gps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="33" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.34953272">
+          <folding />
         </state>
       </provider>
     </entry>
